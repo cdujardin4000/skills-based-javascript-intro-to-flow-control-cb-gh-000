@@ -25,9 +25,19 @@ function ageChecker(age){
 }
 
 function ternaryTeenager(age) {
-
+  return age >= 13 && age <= 19 ? "You are a teenager" : "You are not a teenager";
 }
 
 function switchAge(age) {
 
+}
+switch (food) {
+  case 'oyster':
+    console.log('Enjoy the taste of the sea');
+    break;
+  case 'pizza':
+    console.log('Enjoy a delicious pie');
+    break;
+  default:
+    console.log('Enjoy your meal');
 }
