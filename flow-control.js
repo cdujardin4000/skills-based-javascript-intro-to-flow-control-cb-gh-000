@@ -42,13 +42,3 @@ function switchAge(age) {
       return "You have an age"
     }
 }
-switch (food) {
-  case 'oyster':
-    console.log('Enjoy the taste of the sea');
-    break;
-  case 'pizza':
-    console.log('Enjoy a delicious pie');
-    break;
-  default:
-    console.log('Enjoy your meal');
-}
